@@ -14,3 +14,4 @@ The key structural and algorithmic achievements in the software architecture inc
 
 •	The integration of comprehensive diagnostic safeguards capable of automatically detecting biophysical anomalies, such as negative membrane resistivity states or non-converged stochastic correlation functions.
 
+[📥 Download the latest .exe here](https://github.com/vmyriant/MD3B/releases/latest)
